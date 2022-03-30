@@ -6,6 +6,8 @@
 
 # Hi guys 👋  I'm Farhan Fazli (Paan Joe)
 
+# Personal Website: <a href="https://paanjoe.com/" target="_blank"> Paanjoe.com </a>
+
 
 
 
